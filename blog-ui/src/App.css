@@ -1,0 +1,11 @@
+#app{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    height: 700px ;
+    background-color: rgb(228, 240, 236);
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#heading{
+    color: rgb(223, 68, 68);
+}
